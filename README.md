@@ -1,2 +1,2 @@
-# HTML,CSS,JAVASCRIPT
+# HTML,CSS
  primeiro repositorio
