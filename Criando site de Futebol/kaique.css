@@ -106,3 +106,15 @@ body{
     background-color: #002c5c;
     color: white;
 }
+
+.diferencial-single h2{
+    color: #124265;
+    margin: 10px 0;
+    font-size: 17px;
+}
+
+.diferencial-single p{
+    color: rgb(13, 10, 51);
+    font-size: 14px;
+    line-height: 30px;
+}
